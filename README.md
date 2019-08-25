@@ -1,4 +1,4 @@
-# Autocompleter-unscrambling-of-words
+# Autocompleter-and-jumble-solver
 Trie based Data Structure project
 
 This is a trie based data structure project which first inserts words of a file into a trie and then provide the suggestions on the basis of what letters user provides.This is known as autocomplete feature of trie.
